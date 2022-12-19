@@ -1,0 +1,7 @@
+env
+
+#Ignoring pychace inside pychat
+
+pychat/__pycache__
+
+__pycache__
